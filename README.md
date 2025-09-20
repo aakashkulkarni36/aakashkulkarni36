@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **aakashkulkarni36/aakashkulkarni36** is a ✨ _special_ ✨ repository because its `# Hi there, I'm Aakash Kulkarni 👋
 
 [![Website](https://img.shields.io/badge/Website-aakashkulkarni.dev-blue?style=flat-square&logo=google-chrome)](https://www.aakashkulkarni.dev)
@@ -9,10 +9,17 @@
 
 ## 🎓 About Me
 
-I'm a **Master's student in Computer Science** at Oregon State University with hands-on experience in cutting-edge research and industry environments. Currently working as a Graduate Research Assistant, focusing on fuzzing strategies for HPC systems and heterogeneous bug detection in scientific software.
+I'm a **Graduated Master's student in Computer Science** from Oregon State University with hands-on experience in cutting-edge research and industry environments. Currently looking for a full time job opportunities.
 
+
+- 💻 **Technical Skills**: Full-stack Development, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, High Performance Computing, Software Testing & Fuzzing, Cloud Computing, Mobile Development, DevOps, Database Design, API Development, Microservices Architecture
+- 🛠️ **Core Technologies**: Python, Java, JavaScript, TypeScript, C++, Kotlin, Dart, SQL, HTML5, CSS3, Bash/Shell Scripting
+- 🌐 **Web & Mobile**: React, React Native, Node.js, Express.js, Flutter, Spring Boot, Django, Flask, RESTful APIs, GraphQL
+- 🤖 **AI/ML Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, Pandas, NumPy, Matplotlib, Seaborn, NLTK
+- ☁️ **Cloud & Infrastructure**: AWS (EC2, S3, Lambda, RDS), Google Cloud Platform, Firebase, Docker, Kubernetes, Apache Hadoop, Apache Spark
+- 🗄️ **Databases**: MySQL, PostgreSQL, MongoDB, SQLite, Redis, Firebase Firestore
+- 🔧 **Development Tools**: Git, GitHub, GitLab, Jenkins, JIRA, VS Code, IntelliJ IDEA, Android Studio, Postman, Swagger
 - 🔬 **Research Focus**: High Performance Computing, Fuzzing, Heterogeneous Bug Detection
-- 🎯 **Current Role**: Graduate Research Assistant at OSU College of Engineering
 - 📊 **GPA**: 3.91/4.0 (Master's) | 7.25/10.0 (Bachelor's)
 - 📍 **Location**: Corvallis, Oregon
 
@@ -130,6 +137,8 @@ Feel free to reach out for research collaborations, project discussions, or just
 ---
 ⭐️ From [aakashkulkarni36](https://github.com/aakashkulkarni36)` (this file) appears on your GitHub profile.
 
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
