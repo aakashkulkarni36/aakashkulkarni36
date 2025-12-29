@@ -14,8 +14,8 @@ I'm a **Graduated Master's student in Computer Science** from Oregon State Unive
 - 🌐 **Web & Mobile**: React, React Native, Node.js, Express.js, Flutter, Spring Boot, Django, Flask, RESTful APIs, GraphQL
 - 🤖 **AI/ML Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, Pandas, NumPy, Matplotlib, Seaborn, NLTK
 - ☁️ **Cloud & Infrastructure**: AWS (EC2, S3, Lambda, RDS), Google Cloud Platform, Firebase, Docker, Kubernetes, Apache Hadoop, Apache Spark
-- 🗄️ **Databases**: MySQL, PostgreSQL, MongoDB, SQLite, Redis, Firebase Firestore
-- 🔧 **Development Tools**: Git, GitHub, GitLab, Jenkins, JIRA, VS Code, IntelliJ IDEA, Android Studio, Postman, Swagger
+- 🗄️ **Databases**: SQL, MongoDB,Firebase 
+- 🔧 **Development Tools**: Git, JIRA, VS Code, IntelliJ IDEA, Android Studio, Postman, Swagger
 - 🔬 **Research Focus**: High Performance Computing, Fuzzing, Heterogeneous Bug Detection
 - 📊 **GPA**: 3.91/4.0 (Master's) | 7.25/10.0 (Bachelor's)
 - 📍 **Location**: Corvallis, Oregon
@@ -115,11 +115,15 @@ arXiv preprint arXiv:2501.09872 (2025) - [Download Paper](https://arxiv.org/pdf/
 - 📊 **AWS Cloud Essential Skills** - Coursera Certified (2021)
 - 🗃️ **Oracle SQL Certified** - Comprehensive SQL understanding (2020)
 
+
+<!--
 ## 📊 GitHub Stats
 
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashkulkarni36&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashkulkarni36&layout=compact&theme=radical)
+
+-->
 
 ## 🤝 Let's Connect!
 
@@ -130,9 +134,6 @@ I'm always interested in collaborating on innovative projects, especially in:
 - 📱 Mobile and web application development
 
 Feel free to reach out for research collaborations, project discussions, or just to connect!
-
----
-⭐️ From [aakashkulkarni36](https://github.com/aakashkulkarni36)` (this file) appears on your GitHub profile.
 
 
 <!--
