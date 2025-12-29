@@ -116,14 +116,13 @@ arXiv preprint arXiv:2501.09872 (2025) - [Download Paper](https://arxiv.org/pdf/
 - 🗃️ **Oracle SQL Certified** - Comprehensive SQL understanding (2020)
 
 
-<!--
 ## 📊 GitHub Stats
 
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashkulkarni36&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashkulkarni36&layout=compact&theme=radical)
 
--->
+
 
 ## 🤝 Let's Connect!
 
