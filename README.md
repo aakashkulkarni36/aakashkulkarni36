@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-**aakashkulkarni36/aakashkulkarni36** is a ✨ _special_ ✨ repository because its `# Hi there, I'm Aakash Kulkarni 👋
+# Hi there, I'm Aakash Kulkarni 👋
 
 [![Website](https://img.shields.io/badge/Website-aakashkulkarni.dev-blue?style=flat-square&logo=google-chrome)](https://www.aakashkulkarni.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aakashkulkarni36-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aakashkulkarni36/)
